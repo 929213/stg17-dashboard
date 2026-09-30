@@ -1,3 +1,9 @@
+**Live dashboard: <https://929213.github.io/stg17-dashboard/>**
+
+Rebuilt by running the notebook in this repository against the source publication. Last published 2026-09-30.
+
+---
+
 # Overall statistics on trade in goods excluding oil
 
 Bilingual (EN/FR) dashboard built from **The Gambia Bureau of Statistics**, pages 14, 15, 16.
