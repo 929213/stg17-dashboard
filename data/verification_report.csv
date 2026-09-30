@@ -1,0 +1,161 @@
+indicator,area,period,value,unit,page,model,provenance,evidence,unit_range,arithmetic,cross_read,status,reason
+overall_statistics_trade_goods_excluding_oil,VALUES,1st QTR 2024,9426651.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+overall_statistics_trade_goods_excluding_oil,VALUES,2nd QTR 2024,12766604.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+overall_statistics_trade_goods_excluding_oil,VALUES,3rd QTR 2024,14671825.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+overall_statistics_trade_goods_excluding_oil,VALUES,4th QTR 2024,9342162.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+overall_statistics_trade_goods_excluding_oil,VALUES,1st QTR 2025,10183535.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+overall_statistics_trade_goods_excluding_oil,NETWEIGHT,1st QTR 2024,437782.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+overall_statistics_trade_goods_excluding_oil,NETWEIGHT,2nd QTR 2024,545004.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+overall_statistics_trade_goods_excluding_oil,NETWEIGHT,3rd QTR 2024,797943.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+overall_statistics_trade_goods_excluding_oil,NETWEIGHT,4th QTR 2024,551726.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+overall_statistics_trade_goods_excluding_oil,NETWEIGHT,1st QTR 2025,672776.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,Food and Live Animals,1st QTR 2024,2224308.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Food and Live Animals,2nd QTR 2024,3220570.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Food and Live Animals,3rd QTR 2024,4161831.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Food and Live Animals,4th QTR 2024,3283227.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Food and Live Animals,1st QTR 2025,3187559.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Beverages and Tobacco,1st QTR 2024,103412.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Beverages and Tobacco,2nd QTR 2024,60098.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Beverages and Tobacco,3rd QTR 2024,101806.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Beverages and Tobacco,4th QTR 2024,215259.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Beverages and Tobacco,1st QTR 2025,187091.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Crude Materials, Inedible, Except Fuels",1st QTR 2024,334014.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Crude Materials, Inedible, Except Fuels",2nd QTR 2024,211400.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Crude Materials, Inedible, Except Fuels",3rd QTR 2024,187948.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Crude Materials, Inedible, Except Fuels",4th QTR 2024,227654.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Crude Materials, Inedible, Except Fuels",1st QTR 2025,300821.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Mineral Fuels, Lubricants and Related Materials",1st QTR 2024,6164650.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,"Mineral Fuels, Lubricants and Related Materials",2nd QTR 2024,3470314.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,"Mineral Fuels, Lubricants and Related Materials",3rd QTR 2024,5952134.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,"Mineral Fuels, Lubricants and Related Materials",4th QTR 2024,5985858.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,"Mineral Fuels, Lubricants and Related Materials",1st QTR 2025,11396151.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,"Animal and Vegetable Oils, Fats and Waxes",1st QTR 2024,291565.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Animal and Vegetable Oils, Fats and Waxes",2nd QTR 2024,343142.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Animal and Vegetable Oils, Fats and Waxes",3rd QTR 2024,452398.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Animal and Vegetable Oils, Fats and Waxes",4th QTR 2024,494347.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Animal and Vegetable Oils, Fats and Waxes",1st QTR 2025,359363.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Chemicals and Related Products, N.E.S.",1st QTR 2024,1413437.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Chemicals and Related Products, N.E.S.",2nd QTR 2024,1941020.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Chemicals and Related Products, N.E.S.",3rd QTR 2024,1109986.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Chemicals and Related Products, N.E.S.",4th QTR 2024,608340.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,"Chemicals and Related Products, N.E.S.",1st QTR 2025,691916.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Manufactured Goods Classified Chiefly by Material,1st QTR 2024,2175263.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,Manufactured Goods Classified Chiefly by Material,2nd QTR 2024,2258490.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,Manufactured Goods Classified Chiefly by Material,3rd QTR 2024,3086322.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,Manufactured Goods Classified Chiefly by Material,4th QTR 2024,2093867.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,Manufactured Goods Classified Chiefly by Material,1st QTR 2025,2850788.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section,Machinery and Transport Equipment,1st QTR 2024,2031620.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Machinery and Transport Equipment,2nd QTR 2024,3858880.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Machinery and Transport Equipment,3rd QTR 2024,4641057.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Machinery and Transport Equipment,4th QTR 2024,1485017.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Machinery and Transport Equipment,1st QTR 2025,1977287.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Miscellaneous Manufactured Articles,1st QTR 2024,1024230.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Miscellaneous Manufactured Articles,2nd QTR 2024,878936.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Miscellaneous Manufactured Articles,3rd QTR 2024,939743.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Miscellaneous Manufactured Articles,4th QTR 2024,925315.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section,Miscellaneous Manufactured Articles,1st QTR 2025,651713.0,GMD'000',14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Food and Live Animals,1st QTR 2024,113978.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Food and Live Animals,2nd QTR 2024,180728.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Food and Live Animals,3rd QTR 2024,160160.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Food and Live Animals,4th QTR 2024,212842.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Food and Live Animals,1st QTR 2025,206966.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Beverages and Tobacco,1st QTR 2024,2407.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Beverages and Tobacco,2nd QTR 2024,1262.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Beverages and Tobacco,3rd QTR 2024,2229.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Beverages and Tobacco,4th QTR 2024,4844.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Beverages and Tobacco,1st QTR 2025,4624.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Crude Materials, Inedible, Except Fuels",1st QTR 2024,77503.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Crude Materials, Inedible, Except Fuels",2nd QTR 2024,70067.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Crude Materials, Inedible, Except Fuels",3rd QTR 2024,61030.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Crude Materials, Inedible, Except Fuels",4th QTR 2024,87094.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Crude Materials, Inedible, Except Fuels",1st QTR 2025,105644.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Mineral Fuels, Lubricants and Related Materials",1st QTR 2024,54801.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Mineral Fuels, Lubricants and Related Materials",2nd QTR 2024,54893.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Mineral Fuels, Lubricants and Related Materials",3rd QTR 2024,67690.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Mineral Fuels, Lubricants and Related Materials",4th QTR 2024,57676.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Mineral Fuels, Lubricants and Related Materials",1st QTR 2025,84261.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Animal And Vegetable Oils, Fats and Waxes",1st QTR 2024,9097.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Animal And Vegetable Oils, Fats and Waxes",2nd QTR 2024,11224.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Animal And Vegetable Oils, Fats and Waxes",3rd QTR 2024,14098.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Animal And Vegetable Oils, Fats and Waxes",4th QTR 2024,13076.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Animal And Vegetable Oils, Fats and Waxes",1st QTR 2025,11212.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Chemicals and Related Products, N.E.S.",1st QTR 2024,11071.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Chemicals and Related Products, N.E.S.",2nd QTR 2024,13342.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Chemicals and Related Products, N.E.S.",3rd QTR 2024,17354.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Chemicals and Related Products, N.E.S.",4th QTR 2024,12959.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,"Chemicals and Related Products, N.E.S.",1st QTR 2025,15699.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Manufactured Goods Classified Chiefly by Material,1st QTR 2024,166647.0,tons,14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section_net_weight,Manufactured Goods Classified Chiefly by Material,2nd QTR 2024,233609.0,tons,14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section_net_weight,Manufactured Goods Classified Chiefly by Material,3rd QTR 2024,509952.0,tons,14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section_net_weight,Manufactured Goods Classified Chiefly by Material,4th QTR 2024,191116.0,tons,14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section_net_weight,Manufactured Goods Classified Chiefly by Material,1st QTR 2025,295598.0,tons,14,openai/gpt-oss-120b,True,True,True,True,no-row,verified,
+imports_by_sitc_section_net_weight,Machinery and Transport Equipment,1st QTR 2024,43709.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Machinery and Transport Equipment,2nd QTR 2024,19680.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Machinery and Transport Equipment,3rd QTR 2024,19835.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Machinery and Transport Equipment,4th QTR 2024,15878.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Machinery and Transport Equipment,1st QTR 2025,18212.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Miscellaneous Manufactured Articles,1st QTR 2024,16436.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Miscellaneous Manufactured Articles,2nd QTR 2024,15093.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Miscellaneous Manufactured Articles,3rd QTR 2024,13291.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Miscellaneous Manufactured Articles,4th QTR 2024,13656.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_sitc_section_net_weight,Miscellaneous Manufactured Articles,1st QTR 2025,14921.0,tons,14,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_regional_economic_communities,ALADI,1st QTR 2024,51.772,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 51772.0, the model said 51.772"
+imports_by_regional_economic_communities,ALADI,2nd QTR 2024,50.179,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 50179.0, the model said 50.179"
+imports_by_regional_economic_communities,ALADI,3rd QTR 2024,52.806,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 52806.0, the model said 52.806"
+imports_by_regional_economic_communities,ALADI,4th QTR 2024,76.884,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 76884.0, the model said 76.884"
+imports_by_regional_economic_communities,ALADI,1st QTR 2025,78.55,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 78550.0, the model said 78.55"
+imports_by_regional_economic_communities,ASEN,1st QTR 2024,14.647,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 14647.0, the model said 14.647"
+imports_by_regional_economic_communities,ASEN,2nd QTR 2024,19.287,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 19287.0, the model said 19.287"
+imports_by_regional_economic_communities,ASEN,3rd QTR 2024,14.743,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 14743.0, the model said 14.743"
+imports_by_regional_economic_communities,ASEN,4th QTR 2024,14.187,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 14187.0, the model said 14.187"
+imports_by_regional_economic_communities,ASEN,1st QTR 2025,15.283,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 15283.0, the model said 15.283"
+imports_by_regional_economic_communities,COMESA,1st QTR 2024,2.027,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 2027.0, the model said 2.027"
+imports_by_regional_economic_communities,COMESA,2nd QTR 2024,130.65,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 130650.0, the model said 130.65"
+imports_by_regional_economic_communities,COMESA,3rd QTR 2024,472.097,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 472097.0, the model said 472.097"
+imports_by_regional_economic_communities,COMESA,4th QTR 2024,137.861,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 137861.0, the model said 137.861"
+imports_by_regional_economic_communities,COMESA,1st QTR 2025,190.54,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 190540.0, the model said 190.54"
+imports_by_regional_economic_communities,ECOWAS,1st QTR 2024,181.99,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 181990.0, the model said 181.99"
+imports_by_regional_economic_communities,ECOWAS,2nd QTR 2024,135.836,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 135836.0, the model said 135.836"
+imports_by_regional_economic_communities,ECOWAS,3rd QTR 2024,139.047,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 139047.0, the model said 139.047"
+imports_by_regional_economic_communities,ECOWAS,4th QTR 2024,150.161,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 150161.0, the model said 150.161"
+imports_by_regional_economic_communities,ECOWAS,1st QTR 2025,150.461,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 150461.0, the model said 150.461"
+imports_by_regional_economic_communities,EU,1st QTR 2024,56.981,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 56981.0, the model said 56.981"
+imports_by_regional_economic_communities,EU,2nd QTR 2024,83.389,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 83389.0, the model said 83.389"
+imports_by_regional_economic_communities,EU,3rd QTR 2024,61.085,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 61085.0, the model said 61.085"
+imports_by_regional_economic_communities,EU,4th QTR 2024,76.519,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 76519.0, the model said 76.519"
+imports_by_regional_economic_communities,EU,1st QTR 2025,69.402,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 69402.0, the model said 69.402"
+imports_by_regional_economic_communities,EURO,1st QTR 2024,56.09,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 56090.0, the model said 56.09"
+imports_by_regional_economic_communities,EURO,2nd QTR 2024,82.133,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 82133.0, the model said 82.133"
+imports_by_regional_economic_communities,EURO,3rd QTR 2024,60.272,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 60272.0, the model said 60.272"
+imports_by_regional_economic_communities,EURO,4th QTR 2024,75.779,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 75779.0, the model said 75.779"
+imports_by_regional_economic_communities,EURO,1st QTR 2025,68.075,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 68075.0, the model said 68.075"
+imports_by_regional_economic_communities,MRU,1st QTR 2024,25.063,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 25063.0, the model said 25.063"
+imports_by_regional_economic_communities,MRU,2nd QTR 2024,9.619,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 9619.0, the model said 9.619"
+imports_by_regional_economic_communities,MRU,3rd QTR 2024,1.004,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 1004.0, the model said 1.004"
+imports_by_regional_economic_communities,MRU,4th QTR 2024,1.213,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 1213.0, the model said 1.213"
+imports_by_regional_economic_communities,MRU,1st QTR 2025,1.471,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 1471.0, the model said 1.471"
+imports_by_regional_economic_communities,NAFTA,1st QTR 2024,12.026,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 12026.0, the model said 12.026"
+imports_by_regional_economic_communities,NAFTA,2nd QTR 2024,10.524,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 10524.0, the model said 10.524"
+imports_by_regional_economic_communities,NAFTA,3rd QTR 2024,12.416,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 12416.0, the model said 12.416"
+imports_by_regional_economic_communities,NAFTA,4th QTR 2024,16.397,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 16397.0, the model said 16.397"
+imports_by_regional_economic_communities,NAFTA,1st QTR 2025,13.634,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 13634.0, the model said 13.634"
+imports_by_regional_economic_communities,OIC,1st QTR 2024,291.53,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 291530.0, the model said 291.53"
+imports_by_regional_economic_communities,OIC,2nd QTR 2024,341.936,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 341936.0, the model said 341.936"
+imports_by_regional_economic_communities,OIC,3rd QTR 2024,662.633,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 662633.0, the model said 662.633"
+imports_by_regional_economic_communities,OIC,4th QTR 2024,324.943,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 324943.0, the model said 324.943"
+imports_by_regional_economic_communities,OIC,1st QTR 2025,396.77,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 396770.0, the model said 396.77"
+imports_by_regional_economic_communities,SADC,1st QTR 2024,596.0,tons,16,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_regional_economic_communities,SADC,2nd QTR 2024,586.0,tons,16,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_regional_economic_communities,SADC,3rd QTR 2024,751.0,tons,16,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_regional_economic_communities,SADC,4th QTR 2024,645.0,tons,16,openai/gpt-oss-120b,True,True,True,True,match,verified,
+imports_by_regional_economic_communities,SADC,1st QTR 2025,4.159,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 4159.0, the model said 4.159"
+imports_by_regional_economic_communities,UEMOA,1st QTR 2024,180.57,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 180570.0, the model said 180.57"
+imports_by_regional_economic_communities,UEMOA,2nd QTR 2024,134.716,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 134716.0, the model said 134.716"
+imports_by_regional_economic_communities,UEMOA,3rd QTR 2024,137.282,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 137282.0, the model said 137.282"
+imports_by_regional_economic_communities,UEMOA,4th QTR 2024,129.946,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 129946.0, the model said 129.946"
+imports_by_regional_economic_communities,UEMOA,1st QTR 2025,82.155,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 82155.0, the model said 82.155"
+imports_by_regional_economic_communities,UMA,1st QTR 2024,75.393,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 75393.0, the model said 75.393"
+imports_by_regional_economic_communities,UMA,2nd QTR 2024,32.335,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 32335.0, the model said 32.335"
+imports_by_regional_economic_communities,UMA,3rd QTR 2024,3.81,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 3810.0, the model said 3.81"
+imports_by_regional_economic_communities,UMA,4th QTR 2024,3.914,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 3914.0, the model said 3.914"
+imports_by_regional_economic_communities,UMA,1st QTR 2025,30.763,tons,16,openai/gpt-oss-120b,True,True,True,True,mismatch,review,"the rules reading of that cell is 30763.0, the model said 30.763"
