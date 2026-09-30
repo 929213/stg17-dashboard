@@ -1,0 +1,3123 @@
+{
+ "meta": {
+  "publisher": {
+   "en": "National Institute of Statistics",
+   "fr": "Institut National de la Statistique"
+  },
+  "country": {
+   "en": "",
+   "fr": ""
+  },
+  "docTitle": {
+   "en": "The Gambia Bureau of Statistics",
+   "fr": "The Gambia Bureau of Statistics"
+  },
+  "period": {
+   "en": "",
+   "fr": ""
+  },
+  "sourceUrl": "#",
+  "licence": {
+   "en": "Source data: as published by the institute. Dashboard code: MIT.",
+   "fr": "Données source : telles que publiées par l'institut. Code : MIT."
+  },
+  "contact": {
+   "en": "Built at the STG17 technical workshop, lab 02.",
+   "fr": "Réalisé lors de l'atelier technique STG17, labo 02."
+  },
+  "defaultLang": "fr",
+  "synthetic": false,
+  "generated": "2026-09-30"
+ },
+ "areas": [
+  {
+   "id": "aladi",
+   "fr": "ALADI",
+   "en": "ALADI"
+  },
+  {
+   "id": "asen",
+   "fr": "ASEN",
+   "en": "ASEN"
+  },
+  {
+   "id": "animal-and-vegetable-oils-fats-and-waxes",
+   "fr": "Animal And Vegetable Oils, Fats and Waxes",
+   "en": "Animal And Vegetable Oils, Fats and Waxes"
+  },
+  {
+   "id": "beverages-and-tobacco",
+   "fr": "Beverages and Tobacco",
+   "en": "Beverages and Tobacco"
+  },
+  {
+   "id": "comesa",
+   "fr": "COMESA",
+   "en": "COMESA"
+  },
+  {
+   "id": "chemicals-and-related-products-n-e-s",
+   "fr": "Chemicals and Related Products, N.E.S.",
+   "en": "Chemicals and Related Products, N.E.S."
+  },
+  {
+   "id": "crude-materials-inedible-except-fuels",
+   "fr": "Crude Materials, Inedible, Except Fuels",
+   "en": "Crude Materials, Inedible, Except Fuels"
+  },
+  {
+   "id": "ecowas",
+   "fr": "ECOWAS",
+   "en": "ECOWAS"
+  },
+  {
+   "id": "eu",
+   "fr": "EU",
+   "en": "EU"
+  },
+  {
+   "id": "euro",
+   "fr": "EURO",
+   "en": "EURO"
+  },
+  {
+   "id": "food-and-live-animals",
+   "fr": "Food and Live Animals",
+   "en": "Food and Live Animals"
+  },
+  {
+   "id": "mru",
+   "fr": "MRU",
+   "en": "MRU"
+  },
+  {
+   "id": "machinery-and-transport-equipment",
+   "fr": "Machinery and Transport Equipment",
+   "en": "Machinery and Transport Equipment"
+  },
+  {
+   "id": "manufactured-goods-classified-chiefly-by-material",
+   "fr": "Manufactured Goods Classified Chiefly by Material",
+   "en": "Manufactured Goods Classified Chiefly by Material"
+  },
+  {
+   "id": "mineral-fuels-lubricants-and-related-materials",
+   "fr": "Mineral Fuels, Lubricants and Related Materials",
+   "en": "Mineral Fuels, Lubricants and Related Materials"
+  },
+  {
+   "id": "miscellaneous-manufactured-articles",
+   "fr": "Miscellaneous Manufactured Articles",
+   "en": "Miscellaneous Manufactured Articles"
+  },
+  {
+   "id": "nafta",
+   "fr": "NAFTA",
+   "en": "NAFTA"
+  },
+  {
+   "id": "netweight",
+   "fr": "NETWEIGHT",
+   "en": "NETWEIGHT"
+  },
+  {
+   "id": "oic",
+   "fr": "OIC",
+   "en": "OIC"
+  },
+  {
+   "id": "sadc",
+   "fr": "SADC",
+   "en": "SADC"
+  },
+  {
+   "id": "uemoa",
+   "fr": "UEMOA",
+   "en": "UEMOA"
+  },
+  {
+   "id": "uma",
+   "fr": "UMA",
+   "en": "UMA"
+  },
+  {
+   "id": "values",
+   "fr": "VALUES",
+   "en": "VALUES"
+  }
+ ],
+ "kpis": [
+  {
+   "labels": {
+    "en": "Overall import value (4th QTR 2024)",
+    "fr": "Valeur totale des importations (4e trimestre 2024)"
+   },
+   "value": 9342162,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Food & live animals imports (4th QTR 2024)",
+    "fr": "Importations d'aliments et animaux vivants (4e trimestre 2024)"
+   },
+   "value": 3283227,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "Machinery & transport equipment weight (4th QTR 2024)",
+    "fr": "Poids des machines et équipements de transport (4e trimestre 2024)"
+   },
+   "value": 15878,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  },
+  {
+   "labels": {
+    "en": "ECOWAS import weight (4th QTR 2024)",
+    "fr": "Poids des importations CEDEAO (4e trimestre 2024)"
+   },
+   "value": 150.161,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "delta": null,
+   "deltaLabel": {
+    "en": "vs None",
+    "fr": "vs None"
+   },
+   "good": "down",
+   "highlight": false
+  }
+ ],
+ "series": {
+  "overall_statistics_trade_goods_excluding_oil": {
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "periods": [
+    "1st QTR 2024",
+    "1st QTR 2025",
+    "2nd QTR 2024",
+    "3rd QTR 2024",
+    "4th QTR 2024"
+   ],
+   "values": {
+    "netweight": [
+     437782,
+     672776,
+     545004,
+     797943,
+     551726
+    ],
+    "values": [
+     9426651,
+     10183535,
+     12766604,
+     14671825,
+     9342162
+    ]
+   }
+  },
+  "imports_by_sitc_section": {
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "periods": [
+    "1st QTR 2024",
+    "1st QTR 2025",
+    "2nd QTR 2024",
+    "3rd QTR 2024",
+    "4th QTR 2024"
+   ],
+   "values": {
+    "animal-and-vegetable-oils-fats-and-waxes": [
+     291565,
+     359363,
+     343142,
+     452398,
+     494347
+    ],
+    "beverages-and-tobacco": [
+     103412,
+     187091,
+     60098,
+     101806,
+     215259
+    ],
+    "chemicals-and-related-products-n-e-s": [
+     1413437,
+     691916,
+     1941020,
+     1109986,
+     608340
+    ],
+    "crude-materials-inedible-except-fuels": [
+     334014,
+     300821,
+     211400,
+     187948,
+     227654
+    ],
+    "food-and-live-animals": [
+     2224308,
+     3187559,
+     3220570,
+     4161831,
+     3283227
+    ],
+    "machinery-and-transport-equipment": [
+     2031620,
+     1977287,
+     3858880,
+     4641057,
+     1485017
+    ],
+    "manufactured-goods-classified-chiefly-by-material": [
+     2175263,
+     2850788,
+     2258490,
+     3086322,
+     2093867
+    ],
+    "mineral-fuels-lubricants-and-related-materials": [
+     6164650,
+     11396151,
+     3470314,
+     5952134,
+     5985858
+    ],
+    "miscellaneous-manufactured-articles": [
+     1024230,
+     651713,
+     878936,
+     939743,
+     925315
+    ]
+   }
+  },
+  "imports_by_sitc_section_net_weight": {
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "periods": [
+    "1st QTR 2024",
+    "1st QTR 2025",
+    "2nd QTR 2024",
+    "3rd QTR 2024",
+    "4th QTR 2024"
+   ],
+   "values": {
+    "animal-and-vegetable-oils-fats-and-waxes": [
+     9097,
+     11212,
+     11224,
+     14098,
+     13076
+    ],
+    "beverages-and-tobacco": [
+     2407,
+     4624,
+     1262,
+     2229,
+     4844
+    ],
+    "chemicals-and-related-products-n-e-s": [
+     11071,
+     15699,
+     13342,
+     17354,
+     12959
+    ],
+    "crude-materials-inedible-except-fuels": [
+     77503,
+     105644,
+     70067,
+     61030,
+     87094
+    ],
+    "food-and-live-animals": [
+     113978,
+     206966,
+     180728,
+     160160,
+     212842
+    ],
+    "machinery-and-transport-equipment": [
+     43709,
+     18212,
+     19680,
+     19835,
+     15878
+    ],
+    "manufactured-goods-classified-chiefly-by-material": [
+     166647,
+     295598,
+     233609,
+     509952,
+     191116
+    ],
+    "mineral-fuels-lubricants-and-related-materials": [
+     54801,
+     84261,
+     54893,
+     67690,
+     57676
+    ],
+    "miscellaneous-manufactured-articles": [
+     16436,
+     14921,
+     15093,
+     13291,
+     13656
+    ]
+   }
+  },
+  "imports_by_regional_economic_communities": {
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "periods": [
+    "1st QTR 2024",
+    "1st QTR 2025",
+    "2nd QTR 2024",
+    "3rd QTR 2024",
+    "4th QTR 2024"
+   ],
+   "values": {
+    "aladi": [
+     51.772,
+     78.55,
+     50.179,
+     52.806,
+     76.884
+    ],
+    "asen": [
+     14.647,
+     15.283,
+     19.287,
+     14.743,
+     14.187
+    ],
+    "comesa": [
+     2.027,
+     190.54,
+     130.65,
+     472.097,
+     137.861
+    ],
+    "ecowas": [
+     181.99,
+     150.461,
+     135.836,
+     139.047,
+     150.161
+    ],
+    "eu": [
+     56.981,
+     69.402,
+     83.389,
+     61.085,
+     76.519
+    ],
+    "euro": [
+     56.09,
+     68.075,
+     82.133,
+     60.272,
+     75.779
+    ],
+    "mru": [
+     25.063,
+     1.471,
+     9.619,
+     1.004,
+     1.213
+    ],
+    "nafta": [
+     12.026,
+     13.634,
+     10.524,
+     12.416,
+     16.397
+    ],
+    "oic": [
+     291.53,
+     396.77,
+     341.936,
+     662.633,
+     324.943
+    ],
+    "sadc": [
+     596,
+     4.159,
+     586,
+     751,
+     645
+    ],
+    "uemoa": [
+     180.57,
+     82.155,
+     134.716,
+     137.282,
+     129.946
+    ],
+    "uma": [
+     75.393,
+     30.763,
+     32.335,
+     3.81,
+     3.914
+    ]
+   }
+  }
+ },
+ "views": [
+  {
+   "id": "overall_statistics_trade_goods_excluding_oil",
+   "chart": "grouped",
+   "tab": {
+    "en": "Overall statistics on trade in goods excluding oil",
+    "fr": "Overall statistics on trade in goods excluding oil"
+   },
+   "title": {
+    "en": "Overall statistics on trade in goods excluding oil",
+    "fr": "Overall statistics on trade in goods excluding oil"
+   },
+   "sub": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "lede": {
+    "en": "",
+    "fr": ""
+   },
+   "src": {
+    "en": "Source: The Gambia Bureau of Statistics",
+    "fr": "Source : The Gambia Bureau of Statistics"
+   }
+  },
+  {
+   "id": "imports_by_sitc_section",
+   "chart": "grouped",
+   "tab": {
+    "en": "Imports by SITC SECTION",
+    "fr": "Imports by SITC SECTION"
+   },
+   "title": {
+    "en": "Imports by SITC SECTION",
+    "fr": "Imports by SITC SECTION"
+   },
+   "sub": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "lede": {
+    "en": "",
+    "fr": ""
+   },
+   "src": {
+    "en": "Source: The Gambia Bureau of Statistics",
+    "fr": "Source : The Gambia Bureau of Statistics"
+   }
+  },
+  {
+   "id": "imports_by_sitc_section_net_weight",
+   "chart": "grouped",
+   "tab": {
+    "en": "Imports by SITC SECTION (Net-weight in tons)",
+    "fr": "Imports by SITC SECTION (Net-weight in tons)"
+   },
+   "title": {
+    "en": "Imports by SITC SECTION (Net-weight in tons)",
+    "fr": "Imports by SITC SECTION (Net-weight in tons)"
+   },
+   "sub": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "lede": {
+    "en": "",
+    "fr": ""
+   },
+   "src": {
+    "en": "Source: The Gambia Bureau of Statistics",
+    "fr": "Source : The Gambia Bureau of Statistics"
+   }
+  },
+  {
+   "id": "imports_by_regional_economic_communities",
+   "chart": "grouped",
+   "tab": {
+    "en": "Imports by Regional Economic Communities (Net-weight in tons)",
+    "fr": "Imports by Regional Economic Communities (Net-weight in tons)"
+   },
+   "title": {
+    "en": "Imports by Regional Economic Communities (Net-weight in tons)",
+    "fr": "Imports by Regional Economic Communities (Net-weight in tons)"
+   },
+   "sub": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "lede": {
+    "en": "",
+    "fr": ""
+   },
+   "src": {
+    "en": "Source: The Gambia Bureau of Statistics",
+    "fr": "Source : The Gambia Bureau of Statistics"
+   }
+  }
+ ],
+ "facts": [
+  {
+   "indicator": "overall_statistics_trade_goods_excluding_oil",
+   "area": "values",
+   "period": "1st QTR 2024",
+   "value": 9426651,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "VALUES 9,426,651 12,766,604 14,671,825 9,342,162 10,183,535",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "overall_statistics_trade_goods_excluding_oil",
+   "area": "values",
+   "period": "2nd QTR 2024",
+   "value": 12766604,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "VALUES 9,426,651 12,766,604 14,671,825 9,342,162 10,183,535",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "overall_statistics_trade_goods_excluding_oil",
+   "area": "values",
+   "period": "3rd QTR 2024",
+   "value": 14671825,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "VALUES 9,426,651 12,766,604 14,671,825 9,342,162 10,183,535",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "overall_statistics_trade_goods_excluding_oil",
+   "area": "values",
+   "period": "4th QTR 2024",
+   "value": 9342162,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "VALUES 9,426,651 12,766,604 14,671,825 9,342,162 10,183,535",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "overall_statistics_trade_goods_excluding_oil",
+   "area": "values",
+   "period": "1st QTR 2025",
+   "value": 10183535,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "VALUES 9,426,651 12,766,604 14,671,825 9,342,162 10,183,535",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "overall_statistics_trade_goods_excluding_oil",
+   "area": "netweight",
+   "period": "1st QTR 2024",
+   "value": 437782,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "NETWEIGHT 437,782 545,004 797,943 551,726 672,776",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "overall_statistics_trade_goods_excluding_oil",
+   "area": "netweight",
+   "period": "2nd QTR 2024",
+   "value": 545004,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "NETWEIGHT 437,782 545,004 797,943 551,726 672,776",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "overall_statistics_trade_goods_excluding_oil",
+   "area": "netweight",
+   "period": "3rd QTR 2024",
+   "value": 797943,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "NETWEIGHT 437,782 545,004 797,943 551,726 672,776",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "overall_statistics_trade_goods_excluding_oil",
+   "area": "netweight",
+   "period": "4th QTR 2024",
+   "value": 551726,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "NETWEIGHT 437,782 545,004 797,943 551,726 672,776",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "overall_statistics_trade_goods_excluding_oil",
+   "area": "netweight",
+   "period": "1st QTR 2025",
+   "value": 672776,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "NETWEIGHT 437,782 545,004 797,943 551,726 672,776",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "food-and-live-animals",
+   "period": "1st QTR 2024",
+   "value": 2224308,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Food and Live Animals 2,224,308 3,220,570 4,161,831 3,283,227 3,187,559",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "food-and-live-animals",
+   "period": "2nd QTR 2024",
+   "value": 3220570,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Food and Live Animals 2,224,308 3,220,570 4,161,831 3,283,227 3,187,559",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "food-and-live-animals",
+   "period": "3rd QTR 2024",
+   "value": 4161831,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Food and Live Animals 2,224,308 3,220,570 4,161,831 3,283,227 3,187,559",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "food-and-live-animals",
+   "period": "4th QTR 2024",
+   "value": 3283227,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Food and Live Animals 2,224,308 3,220,570 4,161,831 3,283,227 3,187,559",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "food-and-live-animals",
+   "period": "1st QTR 2025",
+   "value": 3187559,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Food and Live Animals 2,224,308 3,220,570 4,161,831 3,283,227 3,187,559",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "beverages-and-tobacco",
+   "period": "1st QTR 2024",
+   "value": 103412,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Beverages and Tobacco 103,412 60,098 101,806 215,259 187,091",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "beverages-and-tobacco",
+   "period": "2nd QTR 2024",
+   "value": 60098,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Beverages and Tobacco 103,412 60,098 101,806 215,259 187,091",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "beverages-and-tobacco",
+   "period": "3rd QTR 2024",
+   "value": 101806,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Beverages and Tobacco 103,412 60,098 101,806 215,259 187,091",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "beverages-and-tobacco",
+   "period": "4th QTR 2024",
+   "value": 215259,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Beverages and Tobacco 103,412 60,098 101,806 215,259 187,091",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "beverages-and-tobacco",
+   "period": "1st QTR 2025",
+   "value": 187091,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Beverages and Tobacco 103,412 60,098 101,806 215,259 187,091",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "crude-materials-inedible-except-fuels",
+   "period": "1st QTR 2024",
+   "value": 334014,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Crude Materials, Inedible, Except Fuels 334,014 211,400 187,948 227,654 300,821",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "crude-materials-inedible-except-fuels",
+   "period": "2nd QTR 2024",
+   "value": 211400,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Crude Materials, Inedible, Except Fuels 334,014 211,400 187,948 227,654 300,821",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "crude-materials-inedible-except-fuels",
+   "period": "3rd QTR 2024",
+   "value": 187948,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Crude Materials, Inedible, Except Fuels 334,014 211,400 187,948 227,654 300,821",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "crude-materials-inedible-except-fuels",
+   "period": "4th QTR 2024",
+   "value": 227654,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Crude Materials, Inedible, Except Fuels 334,014 211,400 187,948 227,654 300,821",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "crude-materials-inedible-except-fuels",
+   "period": "1st QTR 2025",
+   "value": 300821,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Crude Materials, Inedible, Except Fuels 334,014 211,400 187,948 227,654 300,821",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "mineral-fuels-lubricants-and-related-materials",
+   "period": "1st QTR 2024",
+   "value": 6164650,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Materials 6,164,650 3,470,314 5,952,134 5,985,858 11,396,151",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "mineral-fuels-lubricants-and-related-materials",
+   "period": "2nd QTR 2024",
+   "value": 3470314,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Materials 6,164,650 3,470,314 5,952,134 5,985,858 11,396,151",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "mineral-fuels-lubricants-and-related-materials",
+   "period": "3rd QTR 2024",
+   "value": 5952134,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Materials 6,164,650 3,470,314 5,952,134 5,985,858 11,396,151",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "mineral-fuels-lubricants-and-related-materials",
+   "period": "4th QTR 2024",
+   "value": 5985858,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Materials 6,164,650 3,470,314 5,952,134 5,985,858 11,396,151",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "mineral-fuels-lubricants-and-related-materials",
+   "period": "1st QTR 2025",
+   "value": 11396151,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Materials 6,164,650 3,470,314 5,952,134 5,985,858 11,396,151",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "animal-and-vegetable-oils-fats-and-waxes",
+   "period": "1st QTR 2024",
+   "value": 291565,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Animal and Vegetable Oils, Fats and Waxes 291,565 343,142 452,398 494,347 359,363",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "animal-and-vegetable-oils-fats-and-waxes",
+   "period": "2nd QTR 2024",
+   "value": 343142,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Animal and Vegetable Oils, Fats and Waxes 291,565 343,142 452,398 494,347 359,363",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "animal-and-vegetable-oils-fats-and-waxes",
+   "period": "3rd QTR 2024",
+   "value": 452398,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Animal and Vegetable Oils, Fats and Waxes 291,565 343,142 452,398 494,347 359,363",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "animal-and-vegetable-oils-fats-and-waxes",
+   "period": "4th QTR 2024",
+   "value": 494347,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Animal and Vegetable Oils, Fats and Waxes 291,565 343,142 452,398 494,347 359,363",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "animal-and-vegetable-oils-fats-and-waxes",
+   "period": "1st QTR 2025",
+   "value": 359363,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Animal and Vegetable Oils, Fats and Waxes 291,565 343,142 452,398 494,347 359,363",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "chemicals-and-related-products-n-e-s",
+   "period": "1st QTR 2024",
+   "value": 1413437,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Chemicals and Related Products, N.E.S. 1,413,437 1,941,020 1,109,986 608,340 691,916",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "chemicals-and-related-products-n-e-s",
+   "period": "2nd QTR 2024",
+   "value": 1941020,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Chemicals and Related Products, N.E.S. 1,413,437 1,941,020 1,109,986 608,340 691,916",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "chemicals-and-related-products-n-e-s",
+   "period": "3rd QTR 2024",
+   "value": 1109986,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Chemicals and Related Products, N.E.S. 1,413,437 1,941,020 1,109,986 608,340 691,916",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "chemicals-and-related-products-n-e-s",
+   "period": "4th QTR 2024",
+   "value": 608340,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Chemicals and Related Products, N.E.S. 1,413,437 1,941,020 1,109,986 608,340 691,916",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "chemicals-and-related-products-n-e-s",
+   "period": "1st QTR 2025",
+   "value": 691916,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Chemicals and Related Products, N.E.S. 1,413,437 1,941,020 1,109,986 608,340 691,916",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "manufactured-goods-classified-chiefly-by-material",
+   "period": "1st QTR 2024",
+   "value": 2175263,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Material 2,175,263 2,258,490 3,086,322 2,093,867 2,850,788",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "manufactured-goods-classified-chiefly-by-material",
+   "period": "2nd QTR 2024",
+   "value": 2258490,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Material 2,175,263 2,258,490 3,086,322 2,093,867 2,850,788",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "manufactured-goods-classified-chiefly-by-material",
+   "period": "3rd QTR 2024",
+   "value": 3086322,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Material 2,175,263 2,258,490 3,086,322 2,093,867 2,850,788",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "manufactured-goods-classified-chiefly-by-material",
+   "period": "4th QTR 2024",
+   "value": 2093867,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Material 2,175,263 2,258,490 3,086,322 2,093,867 2,850,788",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "manufactured-goods-classified-chiefly-by-material",
+   "period": "1st QTR 2025",
+   "value": 2850788,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Material 2,175,263 2,258,490 3,086,322 2,093,867 2,850,788",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "machinery-and-transport-equipment",
+   "period": "1st QTR 2024",
+   "value": 2031620,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Machinery and Transport Equipment 2,031,620 3,858,880 4,641,057 1,485,017 1,977,287",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "machinery-and-transport-equipment",
+   "period": "2nd QTR 2024",
+   "value": 3858880,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Machinery and Transport Equipment 2,031,620 3,858,880 4,641,057 1,485,017 1,977,287",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "machinery-and-transport-equipment",
+   "period": "3rd QTR 2024",
+   "value": 4641057,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Machinery and Transport Equipment 2,031,620 3,858,880 4,641,057 1,485,017 1,977,287",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "machinery-and-transport-equipment",
+   "period": "4th QTR 2024",
+   "value": 1485017,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Machinery and Transport Equipment 2,031,620 3,858,880 4,641,057 1,485,017 1,977,287",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "machinery-and-transport-equipment",
+   "period": "1st QTR 2025",
+   "value": 1977287,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Machinery and Transport Equipment 2,031,620 3,858,880 4,641,057 1,485,017 1,977,287",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "miscellaneous-manufactured-articles",
+   "period": "1st QTR 2024",
+   "value": 1024230,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Miscellaneous Manufactured Articles 1,024,230 878,936 939,743 925,315 651,713",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "miscellaneous-manufactured-articles",
+   "period": "2nd QTR 2024",
+   "value": 878936,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Miscellaneous Manufactured Articles 1,024,230 878,936 939,743 925,315 651,713",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "miscellaneous-manufactured-articles",
+   "period": "3rd QTR 2024",
+   "value": 939743,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Miscellaneous Manufactured Articles 1,024,230 878,936 939,743 925,315 651,713",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "miscellaneous-manufactured-articles",
+   "period": "4th QTR 2024",
+   "value": 925315,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Miscellaneous Manufactured Articles 1,024,230 878,936 939,743 925,315 651,713",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section",
+   "area": "miscellaneous-manufactured-articles",
+   "period": "1st QTR 2025",
+   "value": 651713,
+   "unit": {
+    "en": "GMD'000'",
+    "fr": "GMD'000'"
+   },
+   "page": 14,
+   "snippet": "Miscellaneous Manufactured Articles 1,024,230 878,936 939,743 925,315 651,713",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "food-and-live-animals",
+   "period": "1st QTR 2024",
+   "value": 113978,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Food and Live Animals 113,978 180,728 160,160 212,842 206,966",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "food-and-live-animals",
+   "period": "2nd QTR 2024",
+   "value": 180728,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Food and Live Animals 113,978 180,728 160,160 212,842 206,966",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "food-and-live-animals",
+   "period": "3rd QTR 2024",
+   "value": 160160,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Food and Live Animals 113,978 180,728 160,160 212,842 206,966",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "food-and-live-animals",
+   "period": "4th QTR 2024",
+   "value": 212842,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Food and Live Animals 113,978 180,728 160,160 212,842 206,966",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "food-and-live-animals",
+   "period": "1st QTR 2025",
+   "value": 206966,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Food and Live Animals 113,978 180,728 160,160 212,842 206,966",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "beverages-and-tobacco",
+   "period": "1st QTR 2024",
+   "value": 2407,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Beverages and Tobacco 2,407 1,262 2,229 4,844 4,624",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "beverages-and-tobacco",
+   "period": "2nd QTR 2024",
+   "value": 1262,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Beverages and Tobacco 2,407 1,262 2,229 4,844 4,624",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "beverages-and-tobacco",
+   "period": "3rd QTR 2024",
+   "value": 2229,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Beverages and Tobacco 2,407 1,262 2,229 4,844 4,624",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "beverages-and-tobacco",
+   "period": "4th QTR 2024",
+   "value": 4844,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Beverages and Tobacco 2,407 1,262 2,229 4,844 4,624",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "beverages-and-tobacco",
+   "period": "1st QTR 2025",
+   "value": 4624,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Beverages and Tobacco 2,407 1,262 2,229 4,844 4,624",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "crude-materials-inedible-except-fuels",
+   "period": "1st QTR 2024",
+   "value": 77503,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Crude Materials, Inedible, Except Fuels 77,503 70,067 61,030 87,094 105,644",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "crude-materials-inedible-except-fuels",
+   "period": "2nd QTR 2024",
+   "value": 70067,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Crude Materials, Inedible, Except Fuels 77,503 70,067 61,030 87,094 105,644",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "crude-materials-inedible-except-fuels",
+   "period": "3rd QTR 2024",
+   "value": 61030,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Crude Materials, Inedible, Except Fuels 77,503 70,067 61,030 87,094 105,644",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "crude-materials-inedible-except-fuels",
+   "period": "4th QTR 2024",
+   "value": 87094,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Crude Materials, Inedible, Except Fuels 77,503 70,067 61,030 87,094 105,644",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "crude-materials-inedible-except-fuels",
+   "period": "1st QTR 2025",
+   "value": 105644,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Crude Materials, Inedible, Except Fuels 77,503 70,067 61,030 87,094 105,644",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "mineral-fuels-lubricants-and-related-materials",
+   "period": "1st QTR 2024",
+   "value": 54801,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Mineral Fuels, Lubricants and Related Materials 54,801 54,893 67,690 57,676 84,261",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "mineral-fuels-lubricants-and-related-materials",
+   "period": "2nd QTR 2024",
+   "value": 54893,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Mineral Fuels, Lubricants and Related Materials 54,801 54,893 67,690 57,676 84,261",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "mineral-fuels-lubricants-and-related-materials",
+   "period": "3rd QTR 2024",
+   "value": 67690,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Mineral Fuels, Lubricants and Related Materials 54,801 54,893 67,690 57,676 84,261",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "mineral-fuels-lubricants-and-related-materials",
+   "period": "4th QTR 2024",
+   "value": 57676,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Mineral Fuels, Lubricants and Related Materials 54,801 54,893 67,690 57,676 84,261",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "mineral-fuels-lubricants-and-related-materials",
+   "period": "1st QTR 2025",
+   "value": 84261,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Mineral Fuels, Lubricants and Related Materials 54,801 54,893 67,690 57,676 84,261",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "animal-and-vegetable-oils-fats-and-waxes",
+   "period": "1st QTR 2024",
+   "value": 9097,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Animal And Vegetable Oils, Fats and Waxes 9,097 11,224 14,098 13,076 11,212",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "animal-and-vegetable-oils-fats-and-waxes",
+   "period": "2nd QTR 2024",
+   "value": 11224,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Animal And Vegetable Oils, Fats and Waxes 9,097 11,224 14,098 13,076 11,212",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "animal-and-vegetable-oils-fats-and-waxes",
+   "period": "3rd QTR 2024",
+   "value": 14098,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Animal And Vegetable Oils, Fats and Waxes 9,097 11,224 14,098 13,076 11,212",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "animal-and-vegetable-oils-fats-and-waxes",
+   "period": "4th QTR 2024",
+   "value": 13076,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Animal And Vegetable Oils, Fats and Waxes 9,097 11,224 14,098 13,076 11,212",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "animal-and-vegetable-oils-fats-and-waxes",
+   "period": "1st QTR 2025",
+   "value": 11212,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Animal And Vegetable Oils, Fats and Waxes 9,097 11,224 14,098 13,076 11,212",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "chemicals-and-related-products-n-e-s",
+   "period": "1st QTR 2024",
+   "value": 11071,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Chemicals and Related Products, N.E.S. 11,071 13,342 17,354 12,959 15,699",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "chemicals-and-related-products-n-e-s",
+   "period": "2nd QTR 2024",
+   "value": 13342,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Chemicals and Related Products, N.E.S. 11,071 13,342 17,354 12,959 15,699",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "chemicals-and-related-products-n-e-s",
+   "period": "3rd QTR 2024",
+   "value": 17354,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Chemicals and Related Products, N.E.S. 11,071 13,342 17,354 12,959 15,699",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "chemicals-and-related-products-n-e-s",
+   "period": "4th QTR 2024",
+   "value": 12959,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Chemicals and Related Products, N.E.S. 11,071 13,342 17,354 12,959 15,699",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "chemicals-and-related-products-n-e-s",
+   "period": "1st QTR 2025",
+   "value": 15699,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Chemicals and Related Products, N.E.S. 11,071 13,342 17,354 12,959 15,699",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "manufactured-goods-classified-chiefly-by-material",
+   "period": "1st QTR 2024",
+   "value": 166647,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Material 166,647 233,609 509,952 191,116 295,598",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "manufactured-goods-classified-chiefly-by-material",
+   "period": "2nd QTR 2024",
+   "value": 233609,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Material 166,647 233,609 509,952 191,116 295,598",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "manufactured-goods-classified-chiefly-by-material",
+   "period": "3rd QTR 2024",
+   "value": 509952,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Material 166,647 233,609 509,952 191,116 295,598",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "manufactured-goods-classified-chiefly-by-material",
+   "period": "4th QTR 2024",
+   "value": 191116,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Material 166,647 233,609 509,952 191,116 295,598",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "manufactured-goods-classified-chiefly-by-material",
+   "period": "1st QTR 2025",
+   "value": 295598,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Material 166,647 233,609 509,952 191,116 295,598",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "machinery-and-transport-equipment",
+   "period": "1st QTR 2024",
+   "value": 43709,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Machinery and Transport Equipment 43,709 19,680 19,835 15,878 18,212",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "machinery-and-transport-equipment",
+   "period": "2nd QTR 2024",
+   "value": 19680,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Machinery and Transport Equipment 43,709 19,680 19,835 15,878 18,212",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "machinery-and-transport-equipment",
+   "period": "3rd QTR 2024",
+   "value": 19835,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Machinery and Transport Equipment 43,709 19,680 19,835 15,878 18,212",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "machinery-and-transport-equipment",
+   "period": "4th QTR 2024",
+   "value": 15878,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Machinery and Transport Equipment 43,709 19,680 19,835 15,878 18,212",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "machinery-and-transport-equipment",
+   "period": "1st QTR 2025",
+   "value": 18212,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Machinery and Transport Equipment 43,709 19,680 19,835 15,878 18,212",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "miscellaneous-manufactured-articles",
+   "period": "1st QTR 2024",
+   "value": 16436,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Miscellaneous Manufactured Articles 16,436 15,093 13,291 13,656 14,921",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "miscellaneous-manufactured-articles",
+   "period": "2nd QTR 2024",
+   "value": 15093,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Miscellaneous Manufactured Articles 16,436 15,093 13,291 13,656 14,921",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "miscellaneous-manufactured-articles",
+   "period": "3rd QTR 2024",
+   "value": 13291,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Miscellaneous Manufactured Articles 16,436 15,093 13,291 13,656 14,921",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "miscellaneous-manufactured-articles",
+   "period": "4th QTR 2024",
+   "value": 13656,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Miscellaneous Manufactured Articles 16,436 15,093 13,291 13,656 14,921",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_sitc_section_net_weight",
+   "area": "miscellaneous-manufactured-articles",
+   "period": "1st QTR 2025",
+   "value": 14921,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 14,
+   "snippet": "Miscellaneous Manufactured Articles 16,436 15,093 13,291 13,656 14,921",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "aladi",
+   "period": "1st QTR 2024",
+   "value": 51.772,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ALADI 51,772 50,179 52,806 76,884 78,550",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 51772.0, the model said 51.772",
+    "fr": "the rules reading of that cell is 51772.0, the model said 51.772"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "aladi",
+   "period": "2nd QTR 2024",
+   "value": 50.179,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ALADI 51,772 50,179 52,806 76,884 78,550",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 50179.0, the model said 50.179",
+    "fr": "the rules reading of that cell is 50179.0, the model said 50.179"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "aladi",
+   "period": "3rd QTR 2024",
+   "value": 52.806,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ALADI 51,772 50,179 52,806 76,884 78,550",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 52806.0, the model said 52.806",
+    "fr": "the rules reading of that cell is 52806.0, the model said 52.806"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "aladi",
+   "period": "4th QTR 2024",
+   "value": 76.884,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ALADI 51,772 50,179 52,806 76,884 78,550",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 76884.0, the model said 76.884",
+    "fr": "the rules reading of that cell is 76884.0, the model said 76.884"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "aladi",
+   "period": "1st QTR 2025",
+   "value": 78.55,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ALADI 51,772 50,179 52,806 76,884 78,550",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 78550.0, the model said 78.55",
+    "fr": "the rules reading of that cell is 78550.0, the model said 78.55"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "asen",
+   "period": "1st QTR 2024",
+   "value": 14.647,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ASEN 14,647 19,287 14,743 14,187 15,283",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 14647.0, the model said 14.647",
+    "fr": "the rules reading of that cell is 14647.0, the model said 14.647"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "asen",
+   "period": "2nd QTR 2024",
+   "value": 19.287,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ASEN 14,647 19,287 14,743 14,187 15,283",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 19287.0, the model said 19.287",
+    "fr": "the rules reading of that cell is 19287.0, the model said 19.287"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "asen",
+   "period": "3rd QTR 2024",
+   "value": 14.743,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ASEN 14,647 19,287 14,743 14,187 15,283",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 14743.0, the model said 14.743",
+    "fr": "the rules reading of that cell is 14743.0, the model said 14.743"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "asen",
+   "period": "4th QTR 2024",
+   "value": 14.187,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ASEN 14,647 19,287 14,743 14,187 15,283",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 14187.0, the model said 14.187",
+    "fr": "the rules reading of that cell is 14187.0, the model said 14.187"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "asen",
+   "period": "1st QTR 2025",
+   "value": 15.283,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ASEN 14,647 19,287 14,743 14,187 15,283",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 15283.0, the model said 15.283",
+    "fr": "the rules reading of that cell is 15283.0, the model said 15.283"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "comesa",
+   "period": "1st QTR 2024",
+   "value": 2.027,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "COMESA 2,027 130,650 472,097 137,861 190,540",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 2027.0, the model said 2.027",
+    "fr": "the rules reading of that cell is 2027.0, the model said 2.027"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "comesa",
+   "period": "2nd QTR 2024",
+   "value": 130.65,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "COMESA 2,027 130,650 472,097 137,861 190,540",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 130650.0, the model said 130.65",
+    "fr": "the rules reading of that cell is 130650.0, the model said 130.65"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "comesa",
+   "period": "3rd QTR 2024",
+   "value": 472.097,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "COMESA 2,027 130,650 472,097 137,861 190,540",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 472097.0, the model said 472.097",
+    "fr": "the rules reading of that cell is 472097.0, the model said 472.097"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "comesa",
+   "period": "4th QTR 2024",
+   "value": 137.861,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "COMESA 2,027 130,650 472,097 137,861 190,540",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 137861.0, the model said 137.861",
+    "fr": "the rules reading of that cell is 137861.0, the model said 137.861"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "comesa",
+   "period": "1st QTR 2025",
+   "value": 190.54,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "COMESA 2,027 130,650 472,097 137,861 190,540",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 190540.0, the model said 190.54",
+    "fr": "the rules reading of that cell is 190540.0, the model said 190.54"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "ecowas",
+   "period": "1st QTR 2024",
+   "value": 181.99,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ECOWAS 181,990 135,836 139,047 150,161 150,461",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 181990.0, the model said 181.99",
+    "fr": "the rules reading of that cell is 181990.0, the model said 181.99"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "ecowas",
+   "period": "2nd QTR 2024",
+   "value": 135.836,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ECOWAS 181,990 135,836 139,047 150,161 150,461",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 135836.0, the model said 135.836",
+    "fr": "the rules reading of that cell is 135836.0, the model said 135.836"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "ecowas",
+   "period": "3rd QTR 2024",
+   "value": 139.047,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ECOWAS 181,990 135,836 139,047 150,161 150,461",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 139047.0, the model said 139.047",
+    "fr": "the rules reading of that cell is 139047.0, the model said 139.047"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "ecowas",
+   "period": "4th QTR 2024",
+   "value": 150.161,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ECOWAS 181,990 135,836 139,047 150,161 150,461",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 150161.0, the model said 150.161",
+    "fr": "the rules reading of that cell is 150161.0, the model said 150.161"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "ecowas",
+   "period": "1st QTR 2025",
+   "value": 150.461,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "ECOWAS 181,990 135,836 139,047 150,161 150,461",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 150461.0, the model said 150.461",
+    "fr": "the rules reading of that cell is 150461.0, the model said 150.461"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "eu",
+   "period": "1st QTR 2024",
+   "value": 56.981,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "EU 56,981 83,389 61,085 76,519 69,402",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 56981.0, the model said 56.981",
+    "fr": "the rules reading of that cell is 56981.0, the model said 56.981"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "eu",
+   "period": "2nd QTR 2024",
+   "value": 83.389,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "EU 56,981 83,389 61,085 76,519 69,402",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 83389.0, the model said 83.389",
+    "fr": "the rules reading of that cell is 83389.0, the model said 83.389"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "eu",
+   "period": "3rd QTR 2024",
+   "value": 61.085,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "EU 56,981 83,389 61,085 76,519 69,402",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 61085.0, the model said 61.085",
+    "fr": "the rules reading of that cell is 61085.0, the model said 61.085"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "eu",
+   "period": "4th QTR 2024",
+   "value": 76.519,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "EU 56,981 83,389 61,085 76,519 69,402",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 76519.0, the model said 76.519",
+    "fr": "the rules reading of that cell is 76519.0, the model said 76.519"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "eu",
+   "period": "1st QTR 2025",
+   "value": 69.402,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "EU 56,981 83,389 61,085 76,519 69,402",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 69402.0, the model said 69.402",
+    "fr": "the rules reading of that cell is 69402.0, the model said 69.402"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "euro",
+   "period": "1st QTR 2024",
+   "value": 56.09,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "EURO 56,090 82,133 60,272 75,779 68,075",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 56090.0, the model said 56.09",
+    "fr": "the rules reading of that cell is 56090.0, the model said 56.09"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "euro",
+   "period": "2nd QTR 2024",
+   "value": 82.133,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "EURO 56,090 82,133 60,272 75,779 68,075",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 82133.0, the model said 82.133",
+    "fr": "the rules reading of that cell is 82133.0, the model said 82.133"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "euro",
+   "period": "3rd QTR 2024",
+   "value": 60.272,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "EURO 56,090 82,133 60,272 75,779 68,075",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 60272.0, the model said 60.272",
+    "fr": "the rules reading of that cell is 60272.0, the model said 60.272"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "euro",
+   "period": "4th QTR 2024",
+   "value": 75.779,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "EURO 56,090 82,133 60,272 75,779 68,075",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 75779.0, the model said 75.779",
+    "fr": "the rules reading of that cell is 75779.0, the model said 75.779"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "euro",
+   "period": "1st QTR 2025",
+   "value": 68.075,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "EURO 56,090 82,133 60,272 75,779 68,075",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 68075.0, the model said 68.075",
+    "fr": "the rules reading of that cell is 68075.0, the model said 68.075"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "mru",
+   "period": "1st QTR 2024",
+   "value": 25.063,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "MRU 25,063 9,619 1,004 1,213 1,471",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 25063.0, the model said 25.063",
+    "fr": "the rules reading of that cell is 25063.0, the model said 25.063"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "mru",
+   "period": "2nd QTR 2024",
+   "value": 9.619,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "MRU 25,063 9,619 1,004 1,213 1,471",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 9619.0, the model said 9.619",
+    "fr": "the rules reading of that cell is 9619.0, the model said 9.619"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "mru",
+   "period": "3rd QTR 2024",
+   "value": 1.004,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "MRU 25,063 9,619 1,004 1,213 1,471",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 1004.0, the model said 1.004",
+    "fr": "the rules reading of that cell is 1004.0, the model said 1.004"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "mru",
+   "period": "4th QTR 2024",
+   "value": 1.213,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "MRU 25,063 9,619 1,004 1,213 1,471",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 1213.0, the model said 1.213",
+    "fr": "the rules reading of that cell is 1213.0, the model said 1.213"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "mru",
+   "period": "1st QTR 2025",
+   "value": 1.471,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "MRU 25,063 9,619 1,004 1,213 1,471",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 1471.0, the model said 1.471",
+    "fr": "the rules reading of that cell is 1471.0, the model said 1.471"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "nafta",
+   "period": "1st QTR 2024",
+   "value": 12.026,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "NAFTA 12,026 10,524 12,416 16,397 13,634",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 12026.0, the model said 12.026",
+    "fr": "the rules reading of that cell is 12026.0, the model said 12.026"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "nafta",
+   "period": "2nd QTR 2024",
+   "value": 10.524,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "NAFTA 12,026 10,524 12,416 16,397 13,634",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 10524.0, the model said 10.524",
+    "fr": "the rules reading of that cell is 10524.0, the model said 10.524"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "nafta",
+   "period": "3rd QTR 2024",
+   "value": 12.416,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "NAFTA 12,026 10,524 12,416 16,397 13,634",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 12416.0, the model said 12.416",
+    "fr": "the rules reading of that cell is 12416.0, the model said 12.416"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "nafta",
+   "period": "4th QTR 2024",
+   "value": 16.397,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "NAFTA 12,026 10,524 12,416 16,397 13,634",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 16397.0, the model said 16.397",
+    "fr": "the rules reading of that cell is 16397.0, the model said 16.397"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "nafta",
+   "period": "1st QTR 2025",
+   "value": 13.634,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "NAFTA 12,026 10,524 12,416 16,397 13,634",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 13634.0, the model said 13.634",
+    "fr": "the rules reading of that cell is 13634.0, the model said 13.634"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "oic",
+   "period": "1st QTR 2024",
+   "value": 291.53,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "OIC 291,530 341,936 662,633 324,943 396,770",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 291530.0, the model said 291.53",
+    "fr": "the rules reading of that cell is 291530.0, the model said 291.53"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "oic",
+   "period": "2nd QTR 2024",
+   "value": 341.936,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "OIC 291,530 341,936 662,633 324,943 396,770",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 341936.0, the model said 341.936",
+    "fr": "the rules reading of that cell is 341936.0, the model said 341.936"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "oic",
+   "period": "3rd QTR 2024",
+   "value": 662.633,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "OIC 291,530 341,936 662,633 324,943 396,770",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 662633.0, the model said 662.633",
+    "fr": "the rules reading of that cell is 662633.0, the model said 662.633"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "oic",
+   "period": "4th QTR 2024",
+   "value": 324.943,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "OIC 291,530 341,936 662,633 324,943 396,770",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 324943.0, the model said 324.943",
+    "fr": "the rules reading of that cell is 324943.0, the model said 324.943"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "oic",
+   "period": "1st QTR 2025",
+   "value": 396.77,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "OIC 291,530 341,936 662,633 324,943 396,770",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 396770.0, the model said 396.77",
+    "fr": "the rules reading of that cell is 396770.0, the model said 396.77"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "sadc",
+   "period": "1st QTR 2024",
+   "value": 596,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "SADC 596 586 751 645 4,159",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "sadc",
+   "period": "2nd QTR 2024",
+   "value": 586,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "SADC 596 586 751 645 4,159",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "sadc",
+   "period": "3rd QTR 2024",
+   "value": 751,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "SADC 596 586 751 645 4,159",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "sadc",
+   "period": "4th QTR 2024",
+   "value": 645,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "SADC 596 586 751 645 4,159",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "sadc",
+   "period": "1st QTR 2025",
+   "value": 4.159,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "SADC 596 586 751 645 4,159",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 4159.0, the model said 4.159",
+    "fr": "the rules reading of that cell is 4159.0, the model said 4.159"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "uemoa",
+   "period": "1st QTR 2024",
+   "value": 180.57,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "UEMOA 180,570 134,716 137,282 129,946 82,155",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 180570.0, the model said 180.57",
+    "fr": "the rules reading of that cell is 180570.0, the model said 180.57"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "uemoa",
+   "period": "2nd QTR 2024",
+   "value": 134.716,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "UEMOA 180,570 134,716 137,282 129,946 82,155",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 134716.0, the model said 134.716",
+    "fr": "the rules reading of that cell is 134716.0, the model said 134.716"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "uemoa",
+   "period": "3rd QTR 2024",
+   "value": 137.282,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "UEMOA 180,570 134,716 137,282 129,946 82,155",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 137282.0, the model said 137.282",
+    "fr": "the rules reading of that cell is 137282.0, the model said 137.282"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "uemoa",
+   "period": "4th QTR 2024",
+   "value": 129.946,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "UEMOA 180,570 134,716 137,282 129,946 82,155",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 129946.0, the model said 129.946",
+    "fr": "the rules reading of that cell is 129946.0, the model said 129.946"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "uemoa",
+   "period": "1st QTR 2025",
+   "value": 82.155,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "UEMOA 180,570 134,716 137,282 129,946 82,155",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 82155.0, the model said 82.155",
+    "fr": "the rules reading of that cell is 82155.0, the model said 82.155"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "uma",
+   "period": "1st QTR 2024",
+   "value": 75.393,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "UMA 75,393 32,335 3,810 3,914 30,763",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 75393.0, the model said 75.393",
+    "fr": "the rules reading of that cell is 75393.0, the model said 75.393"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "uma",
+   "period": "2nd QTR 2024",
+   "value": 32.335,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "UMA 75,393 32,335 3,810 3,914 30,763",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 32335.0, the model said 32.335",
+    "fr": "the rules reading of that cell is 32335.0, the model said 32.335"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "uma",
+   "period": "3rd QTR 2024",
+   "value": 3.81,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "UMA 75,393 32,335 3,810 3,914 30,763",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 3810.0, the model said 3.81",
+    "fr": "the rules reading of that cell is 3810.0, the model said 3.81"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "uma",
+   "period": "4th QTR 2024",
+   "value": 3.914,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "UMA 75,393 32,335 3,810 3,914 30,763",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 3914.0, the model said 3.914",
+    "fr": "the rules reading of that cell is 3914.0, the model said 3.914"
+   }
+  },
+  {
+   "indicator": "imports_by_regional_economic_communities",
+   "area": "uma",
+   "period": "1st QTR 2025",
+   "value": 30.763,
+   "unit": {
+    "en": "tons",
+    "fr": "tons"
+   },
+   "page": 16,
+   "snippet": "UMA 75,393 32,335 3,810 3,914 30,763",
+   "status": "warn",
+   "note": {
+    "en": "the rules reading of that cell is 30763.0, the model said 30.763",
+    "fr": "the rules reading of that cell is 30763.0, the model said 30.763"
+   }
+  }
+ ],
+ "indicators": {
+  "overall_statistics_trade_goods_excluding_oil": {
+   "fr": "Overall statistics on trade in goods excluding oil",
+   "en": "Overall statistics on trade in goods excluding oil"
+  },
+  "imports_by_sitc_section": {
+   "fr": "Imports by SITC SECTION",
+   "en": "Imports by SITC SECTION"
+  },
+  "imports_by_sitc_section_net_weight": {
+   "fr": "Imports by SITC SECTION (Net-weight in tons)",
+   "en": "Imports by SITC SECTION (Net-weight in tons)"
+  },
+  "imports_by_regional_economic_communities": {
+   "fr": "Imports by Regional Economic Communities (Net-weight in tons)",
+   "en": "Imports by Regional Economic Communities (Net-weight in tons)"
+  }
+ },
+ "i18n": {
+  "en": {
+   "sourceDoc": "Source publication",
+   "tabOverview": "Overview",
+   "tabData": "Data & sources",
+   "filterLabel": "Areas",
+   "reset": "Reset",
+   "searchPh": "Search an indicator, an area, a year…",
+   "btnCsv": "Download CSV",
+   "btnJson": "Download JSON",
+   "thIndicator": "Indicator",
+   "thArea": "Area",
+   "thPeriod": "Period",
+   "thValue": "Value",
+   "thUnit": "Unit",
+   "thPage": "Page",
+   "thStatus": "Check",
+   "noRows": "No figure matches this search.",
+   "statusOk": "Verified",
+   "statusWarn": "To review",
+   "provLabel": "Read from the source document, page",
+   "calloutTitle": "Read this before reusing the figures",
+   "calloutBody": "These figures were extracted from a PDF by a language model and then checked automatically against the source text. Rows marked “To review” failed at least one check and have not been confirmed by a statistician. Always cite the original publication, not this dashboard.",
+   "dataTitle": "Data & sources",
+   "dataLede": "Every figure on this dashboard, with the page it came from and the line of text it was read from. Search, sort, open a row to see the source, export.",
+   "limTitle": "Limitations",
+   "methTitle": "How this dashboard was built",
+   "methBody": "Text was extracted from the PDF page by page. A rules-based reader and a language model each transcribed the tables independently, and every cell was checked for page provenance, quoted evidence, unit and range, reconciliation with published totals, and agreement between the two readings. The notebook, the prompts and the verification report are in the repository.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Built with",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, an LLM extraction pipeline, Chart.js. No tracking, no cookies, no server — a single HTML file.",
+   "stamp": "Dashboard generated on {date}. Figures are the responsibility of the source institution; the presentation is the responsibility of the team that built this page.",
+   "syntheticWarn": "Demonstration data — fictional country, for training purposes only.",
+   "kicker": "Trade in goods (excl. oil)",
+   "title": "Overall statistics on trade in goods excluding oil",
+   "subtitle": "",
+   "ovTitle": "Key trade indicators",
+   "ovLede": "This dashboard presents quarterly import values and net weights for goods excluding oil, broken down by commodity sections and regional economic communities.",
+   "limBody": "The figures are expressed in thousands (or in tons). Verification notes show that the model previously mis‑read values by a factor of 1 000 (e.g., 1004.0 was read as 1.004). Users should ensure the correct scale is applied when interpreting the data.",
+   "publisher": "National Institute of Statistics",
+   "period": ""
+  },
+  "fr": {
+   "sourceDoc": "Publication source",
+   "tabOverview": "Vue d'ensemble",
+   "tabData": "Données et sources",
+   "filterLabel": "Zones",
+   "reset": "Réinitialiser",
+   "searchPh": "Chercher un indicateur, une zone, une année…",
+   "btnCsv": "Télécharger le CSV",
+   "btnJson": "Télécharger le JSON",
+   "thIndicator": "Indicateur",
+   "thArea": "Zone",
+   "thPeriod": "Période",
+   "thValue": "Valeur",
+   "thUnit": "Unité",
+   "thPage": "Page",
+   "thStatus": "Contrôle",
+   "noRows": "Aucun chiffre ne correspond à cette recherche.",
+   "statusOk": "Vérifié",
+   "statusWarn": "À revoir",
+   "provLabel": "Lu dans le document source, page",
+   "calloutTitle": "À lire avant de réutiliser les chiffres",
+   "calloutBody": "Ces chiffres ont été extraits d'un PDF par un modèle de langage, puis contrôlés automatiquement contre le texte source. Les lignes marquées « À revoir » ont échoué à au moins un contrôle et n'ont pas été confirmées par un statisticien. Citez toujours la publication d'origine, pas ce tableau de bord.",
+   "dataTitle": "Données et sources",
+   "dataLede": "Tous les chiffres de ce tableau de bord, avec la page dont ils proviennent et la ligne de texte dont ils ont été lus. Cherchez, triez, ouvrez une ligne pour voir la source, exportez.",
+   "limTitle": "Limites",
+   "methTitle": "Comment ce tableau de bord a été construit",
+   "methBody": "Le texte a été extrait du PDF page par page. Un lecteur à base de règles et un modèle de langage ont transcrit les tableaux indépendamment, et chaque cellule a été contrôlée : provenance de page, citation vérifiée, unité et plage, réconciliation avec les totaux publiés, et accord entre les deux lectures. Le notebook, les prompts et le rapport de vérification sont dans le dépôt.",
+   "fSource": "Source",
+   "fLicence": "Licence",
+   "fBuilt": "Réalisé avec",
+   "fContact": "Contact",
+   "fBuiltBody": "Python, une chaîne d'extraction par LLM, Chart.js. Aucun traceur, aucun cookie, aucun serveur — un seul fichier HTML.",
+   "stamp": "Tableau de bord généré le {date}. Les chiffres relèvent de la responsabilité de l'institution source ; la présentation relève de la responsabilité de l'équipe qui a construit cette page.",
+   "syntheticWarn": "Données de démonstration — pays fictif, à usage pédagogique uniquement.",
+   "kicker": "Commerce de biens (hors pétrole)",
+   "title": "Statistiques globales du commerce de biens hors pétrole",
+   "subtitle": "",
+   "ovTitle": "Principaux indicateurs du commerce",
+   "ovLede": "Ce tableau de bord présente les valeurs d'importation trimestrielles et les poids nets des biens hors pétrole, ventilés par sections de marchandises et communautés économiques régionales.",
+   "limBody": "Les chiffres sont exprimés en milliers (ou en tonnes). Les notes de vérification indiquent que le modèle a auparavant mal interprété les valeurs d'un facteur de 1 000 (par ex., 1004,0 a été lu comme 1,004). Les utilisateurs doivent vérifier que l'échelle correcte est appliquée lors de l'interprétation des données.",
+   "publisher": "Institut National de la Statistique",
+   "period": ""
+  }
+ }
+}
